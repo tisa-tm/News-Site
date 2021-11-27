@@ -1,0 +1,23 @@
+.fab{
+    border-radius: 50%;
+    padding: 10px;
+}
+.fa-twitter{
+    color: #1DA1F2;
+    background: white;
+}
+.fa-facebook{
+    color: white;
+    background: #3b5998;   
+}
+.fa-facebook-messenger{
+    color: #3b5998;
+    background: white; 
+}
+.tab-container-button{
+    background: ;
+}
+.tab-container-tab{
+	display: none;
+	width: 100%;
+}

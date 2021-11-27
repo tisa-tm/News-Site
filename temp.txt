@@ -1,0 +1,54 @@
+<!-- two columns -->
+        <div class="row">
+            <!-- col left (col 1) -->
+            <div class="col-md-7 bg-danger">
+                <!-- heading -->
+                <h4 class="w-100 border-bottom text-center m-3 m-sm-5 pb-1 pb-sm-2">Heading</h4>
+                <div class="m-5">
+                    <div class="w-sm-25 d-flex flex-column m-2 border-bottom">
+                        <div class="w-100 h-100 d-flex">
+                            <div class="w-35 h-100">
+                                <img src="images/1.jpg" class="w-100 h-100 img-fluid" alt="An image">
+                            </div>
+                            <div class="ml-2 w-75">
+                                <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                                <span class="text-secondary">Date</span>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, sint et delectus sapiente consequatur distinctio soluta, cupiditate porro sequi fuga eveniet, repellat laboriosam accusamus. Aut eius voluptate minus vel quod?</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-sm-25 d-flex flex-column m-2 border-bottom">
+                        <div class="w-100 h-100 d-flex">
+                            <div class="w-35 h-100">
+                                <img src="images/1.jpg" class="w-100 h-100 img-fluid" alt="An image">
+                            </div>
+                            <div class="ml-2 w-75">
+                                <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                                <span class="text-secondary">Date</span>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, sint et delectus sapiente consequatur distinctio soluta, cupiditate porro sequi fuga eveniet, repellat laboriosam accusamus. Aut eius voluptate minus vel quod?</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-sm-25 d-flex flex-column m-2 border-bottom">
+                        <div class="w-100 h-100 d-flex">
+                            <div class="w-35 h-100">
+                                <img src="images/1.jpg" class="w-100 h-100 img-fluid" alt="An image">
+                            </div>
+                            <div class="ml-2 w-75">
+                                <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                                <span class="text-secondary">Date</span>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium, sint et delectus sapiente consequatur distinctio soluta, cupiditate porro sequi fuga eveniet, repellat laboriosam accusamus. Aut eius voluptate minus vel quod?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- col right (col 2) -->
+            <!-- advertisement column -->
+            <div class="col-md-5 mt-5 mb-3">
+                <div class="bg-light p-sm-3 m-sm-5">
+                    <h5>Advertisement</h5>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, sint, repudiandae consectetur recusandae est maxime sapiente magnam tempora ducimus dignissimos laboriosam, vitae ratione doloremque soluta praesentium veniam porro eos quia.
+                </div>
+            </div>
+        </div>

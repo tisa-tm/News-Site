@@ -1,0 +1,82 @@
+#img-resp{
+    width: 50% !important;
+}
+.small-text{
+    font-size: 0.8rem;
+}
+#col-2{
+    margin: 0;
+    padding: 0;
+    /* overflow-y: auto;
+    height: 80vh; */
+}
+#col-2 > div{ 
+    margin: 0;
+    padding: 0;
+}
+#col-2 > div > div{
+    margin: 0;
+    padding: 0;
+} 
+#col-2 > div > div > div{
+    margin: 0;
+    padding: 0;
+}
+#col-2 > div > div > div > div{
+    margin: 0;
+    padding: 0;
+}
+.twitter-feed-wrapper:hover{
+    background: gainsboro;
+}
+#twitter-card-title{
+    font-weight: bold;
+    font-size: 1rem;
+}
+#twitter-card-text{
+    font-size: 0.8rem;
+}
+#circle-image{
+    height: 50px;
+    width: 50px;
+}
+.h-80{
+    height: 80vh;
+}
+.w-35{
+    width: 35%;
+}
+.fa-twitter{
+    color: lightgray;
+}
+.fa-twitter:hover{
+    color: 	#1DA1F2;
+}
+#twitter-logo-wrapper:hover .fa-twitter
+{
+    color: 	#1DA1F2;
+}
+#news-list ol{
+ padding: 0;
+ margin: 0;
+}
+#twitter-share-icon{
+    height: 15px;
+    width: 15px;
+    background-image: url(../images/logout.png);
+    background-size: 100% 100%;
+}
+#twitter-share-icon:hover{
+    background-image: url(../images//logoutblue.png);
+}
+.fa-heart{
+    color: #959595;
+}
+.fa-heart:hover{
+    color: #1DA1F2;
+}
+@media (max-width: 764px) {
+    #img-resp{
+        width: 100% !important;
+    }
+}

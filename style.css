@@ -1,0 +1,61 @@
+--root {
+    --margin-xs: 20px;
+    --red: red;
+}
+/* *{
+    padding: 0 !important;
+    margin: 0 !important;
+} */
+
+.container-fluid{
+    margin: none !important;
+    padding: none !important;
+}
+
+.background-red{
+    background: var(--red);
+}
+.background-blue{
+    background: blue;
+}
+
+.hover-zoom:hover {
+    transform: scale(1.1); 
+    transition-duration: 0.8s;
+}
+.hover-fade:hover{
+    opacity: 0.7;
+}
+
+.hide-scroller::-webkit-scrollbar {
+    display: none;
+}
+.hide-scroller{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+.shadow-all{
+    box-shadow: 2px 2px 10px lightgray,
+    -2px -2px 10px lightgray;
+}
+.overflow{
+    overflow-y: auto;
+    height: 60vh;
+}
+.right{
+    margin-left: auto;
+}
+#footer-logo{
+    height: 100px;
+    width: 100px;
+}
+/* #footer > div > p{
+    font-weight: 500;
+} */
+
+@media (max-width: 576px) {
+    .m-5{
+        margin: var(--margin-xs);
+    }
+}
+
